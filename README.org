@@ -9,8 +9,6 @@ ShowReadingTime: "True"
 ---
 
 
-[[/img/fedora40.png]]
-
 * Fedora 40 Setup Script
 
 Open a Terminal: Open a terminal on your Fedora 40 system.
@@ -83,6 +81,3 @@ chmod +x fedora_setup.sh
 #+end_src
 
 This script simplifies the initial setup process for a new Fedora 40 installation, making it easier for beginners to get started with their system.
-
-[[/img/logo.svg]]
-
