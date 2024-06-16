@@ -80,9 +80,6 @@ chmod +x fedora_setup.sh
 # Run the Script: Execute the script to perform the setup tasks.
 
 ./fedora_setup.sh
-
-
-
 #+end_src
 
 This script simplifies the initial setup process for a new Fedora 40 installation, making it easier for beginners to get started with their system.
